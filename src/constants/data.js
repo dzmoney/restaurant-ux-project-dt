@@ -18,12 +18,12 @@ const wines = [
   },
   {
     title: "Rhino Pale Ale",
-    price: "$31",
+    price: "$28",
     tags: "CA | 750 ml",
   },
   {
     title: "Irish Guinness",
-    price: "$26",
+    price: "$25",
     tags: "IE | 750 ml",
   },
 ];
@@ -31,28 +31,28 @@ const wines = [
 const cocktails = [
   {
     title: "Aperol Sprtiz",
-    price: "$20",
-    tags: "Aperol | Villa Marchesi prosecco | soda | 30 ml",
+    price: "$18",
+    tags: "Aperol | Prosecco | Soda",
   },
   {
     title: "Dark 'N' Stormy",
     price: "$16",
-    tags: "Dark rum | Ginger beer | Slice of lime",
+    tags: "Dark Rum | Ginger Beer | Lime",
   },
   {
     title: "Daiquiri",
-    price: "$10",
-    tags: "Rum | Citrus juice | Sugar",
+    price: "$18",
+    tags: "White Rum | Citrus | Sugar",
   },
   {
     title: "Old Fashioned",
-    price: "$31",
-    tags: "Bourbon | Brown sugar | Angostura Bitters",
+    price: "$16",
+    tags: "Bourbon | Brown Sugar | Angostura Bitters",
   },
   {
     title: "Negroni",
-    price: "$26",
-    tags: "Gin | Sweet Vermouth | Campari | Orange garnish",
+    price: "$18",
+    tags: "Gin | Sweet Vermouth | Campari | Orange Twist",
   },
 ];
 
