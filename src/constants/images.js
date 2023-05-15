@@ -22,7 +22,7 @@ import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
 import gravitas from "../assets/gravitas.png";
 
-export default {
+const images = {
   bg,
   chef,
   G,
@@ -47,3 +47,5 @@ export default {
   gericht,
   gravitas,
 };
+
+export default images;
